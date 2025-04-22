@@ -8,5 +8,5 @@ void testar() {
 
 int main() {
     testar();
-    return 0;
+    return 0;
 }
