@@ -22,5 +22,5 @@ jobs:
 
     - name: Executar testes automatizados
       run: |
-        gcc teste.c -o teste
+        gcc -o teste teste.c
         ./teste
